@@ -1,1 +1,1 @@
-# https://emrahmorgil.github.io/Simon-Game/
+https://emrahmorgil.github.io/Simon-Game/
